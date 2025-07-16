@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: JustPixel Web Design
+title: Just Pixel Web Design
 seo:
   page_description: >-
     A starting point for developers looking to build a website with Astro, using
@@ -15,7 +15,7 @@ hero_block:
   _bookshop_name: heroes/hero
   background_color: '#ffffff'
   heading:
-    heading_text: JustPixel Web Design
+    heading_text: Just Pixel web design
     heading_gradient_color: '#A0A2FF'
     text_color: '#333232'
   subheading:
